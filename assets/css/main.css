@@ -3139,7 +3139,7 @@
 			top: 0;
 			color: #3cbf48;
 			font-size: 1.75em;
-			text-transform: none;
+			text-transform: uppercase;
 			font-weight: normal;
 			padding: 0;
 		}
@@ -3155,7 +3155,7 @@
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 2em;
-			color: #ffffff;
+			color: #63c04b;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
@@ -3163,7 +3163,7 @@
 		}
 
 			#header a:hover {
-				color: rgba(255, 255, 255, 0.75);
+				color: rgba(229, 71, 75, 0.75);
 			}
 
 			#header a:last-child {
